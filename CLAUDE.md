@@ -83,3 +83,11 @@ npm run format       # Prettier format
 - Never blindly regenerate. If a component is 80% correct, fix the specific issues.
 - Never hardcode values that should come from the design system.
 - Never generate security-critical code (auth, data validation) without human review.
+
+## Design System
+This project uses a Figma design system. The exported tokens are in:
+- `src/styles/design-system-tokens.json` — source of truth for all token values
+- EVERY component must use these tokens. Never hardcode colors, spacing, 
+  typography, or shadows.
+- When generating components, read the token file FIRST and use the 
+  exact variable names from it.
