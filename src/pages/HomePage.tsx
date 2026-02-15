@@ -3,7 +3,6 @@ import { HeroSection } from "../components/HeroSection";
 import { TrainAISection } from "../components/TrainAISection";
 import { SmartestLinkSection } from "../components/SmartestLinkSection";
 import { PoweringExpertsSection } from "../components/PoweringExpertsSection";
-import { SalesAgentSection } from "../components/SalesAgentSection";
 import { DataProtectionSection } from "../components/DataProtectionSection";
 import { CTASection } from "../components/CTASection";
 import { Footer } from "../components/Footer";
@@ -17,7 +16,6 @@ export function HomePage() {
         <TrainAISection />
         <SmartestLinkSection />
         <PoweringExpertsSection />
-        <SalesAgentSection />
         <DataProtectionSection />
         <CTASection />
       </main>
