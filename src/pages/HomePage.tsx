@@ -1,7 +1,12 @@
 import { Navigation } from "../components/Navigation";
 import { HeroSection } from "../components/HeroSection";
-import { FeaturedPrograms } from "../components/FeaturedPrograms";
-import { GrowthJourney } from "../components/GrowthJourney";
+import { TrainAISection } from "../components/TrainAISection";
+import { SmartestLinkSection } from "../components/SmartestLinkSection";
+import { FeaturesSection } from "../components/FeaturesSection";
+import { PoweringExpertsSection } from "../components/PoweringExpertsSection";
+import { SalesAgentSection } from "../components/SalesAgentSection";
+import { DataProtectionSection } from "../components/DataProtectionSection";
+import { CTASection } from "../components/CTASection";
 import { Footer } from "../components/Footer";
 
 export function HomePage() {
@@ -10,8 +15,13 @@ export function HomePage() {
       <Navigation />
       <main className="flex-1">
         <HeroSection />
-        <FeaturedPrograms />
-        <GrowthJourney />
+        <TrainAISection />
+        <SmartestLinkSection />
+        <FeaturesSection />
+        <PoweringExpertsSection />
+        <SalesAgentSection />
+        <DataProtectionSection />
+        <CTASection />
       </main>
       <Footer />
     </div>
