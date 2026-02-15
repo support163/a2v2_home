@@ -1,0 +1,1315 @@
+[
+  {
+    "id": "VariableID:2:7462",
+    "name": "Primary/900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.13725490868091583,
+        "g": 0.13725490868091583,
+        "b": 0.13725490868091583,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7468",
+    "name": "rounded-infinite",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 9999
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7469",
+    "name": "rounded-8",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 8
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7471",
+    "name": "rounded-4",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 4
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7524",
+    "name": "Primary/400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.615686297416687,
+        "g": 0.615686297416687,
+        "b": 0.615686297416687,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7525",
+    "name": "Primary/800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.23529411852359772,
+        "g": 0.23529411852359772,
+        "b": 0.23529411852359772,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7527",
+    "name": "Primary/700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.3294117748737335,
+        "g": 0.3294117748737335,
+        "b": 0.3294117748737335,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7528",
+    "name": "Primary/100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9058823585510254,
+        "g": 0.9058823585510254,
+        "b": 0.9058823585510254,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7529",
+    "name": "Primary/950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.04313725605607033,
+        "g": 0.04313725605607033,
+        "b": 0.04313725605607033,
+        "a": 1
+      }
+    },
+    "description": "Primary Main"
+  },
+  {
+    "id": "VariableID:2:7530",
+    "name": "Primary/200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8078431487083435,
+        "g": 0.8078431487083435,
+        "b": 0.8078431487083435,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7531",
+    "name": "Primary/300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.7137255072593689,
+        "g": 0.7137255072593689,
+        "b": 0.7137255072593689,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7532",
+    "name": "Primary/600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.4274509847164154,
+        "g": 0.4274509847164154,
+        "b": 0.4274509847164154,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7533",
+    "name": "Primary/50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:2:7534",
+    "name": "Primary/500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.5215686559677124,
+        "g": 0.5215686559677124,
+        "b": 0.5215686559677124,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5396",
+    "name": "Grey/50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9803921580314636,
+        "g": 0.9803921580314636,
+        "b": 0.9803921580314636,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5397",
+    "name": "Grey/950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.03529411926865578,
+        "g": 0.03529411926865578,
+        "b": 0.04313725605607033,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5401",
+    "name": "Acent/700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.11372549086809158,
+        "g": 0.30588236451148987,
+        "b": 0.8470588326454163,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5403",
+    "name": "Error/50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9960784316062927,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5405",
+    "name": "Grey/100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.95686274766922,
+        "g": 0.95686274766922,
+        "b": 0.9607843160629272,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5411",
+    "name": "Acent/800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.11764705926179886,
+        "g": 0.250980406999588,
+        "b": 0.686274528503418,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5412",
+    "name": "Success/400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.29019609093666077,
+        "g": 0.8705882430076599,
+        "b": 0.501960813999176,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5413",
+    "name": "Error/300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9882352948188782,
+        "g": 0.6470588445663452,
+        "b": 0.6470588445663452,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5416",
+    "name": "Success/300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.5254902243614197,
+        "g": 0.9372549057006836,
+        "b": 0.6745098233222961,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5418",
+    "name": "Error/200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9960784316062927,
+        "g": 0.7921568751335144,
+        "b": 0.7921568751335144,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5419",
+    "name": "Acent/100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8588235378265381,
+        "g": 0.9176470637321472,
+        "b": 0.9960784316062927,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5423",
+    "name": "100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9960784316062927,
+        "g": 0.9764705896377563,
+        "b": 0.7647058963775635,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5424",
+    "name": "Error/500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9372549057006836,
+        "g": 0.2666666805744171,
+        "b": 0.2666666805744171,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5425",
+    "name": "950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.25882354378700256,
+        "g": 0.125490203499794,
+        "b": 0.0235294122248888,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5434",
+    "name": "Acent/500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.23137255012989044,
+        "g": 0.5098039507865906,
+        "b": 0.9647058844566345,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5439",
+    "name": "Error/700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.7254902124404907,
+        "g": 0.10980392247438431,
+        "b": 0.10980392247438431,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5455",
+    "name": "800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.5215686559677124,
+        "g": 0.3019607961177826,
+        "b": 0.054901961237192154,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5460",
+    "name": "Success/100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8627451062202454,
+        "g": 0.9882352948188782,
+        "b": 0.9058823585510254,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5469",
+    "name": "Acent/50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9372549057006836,
+        "g": 0.9647058844566345,
+        "b": 1,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5470",
+    "name": "Success/800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.08627451211214066,
+        "g": 0.3960784375667572,
+        "b": 0.20392157137393951,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5472",
+    "name": "Success/950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.019607843831181526,
+        "g": 0.18039216101169586,
+        "b": 0.08627451211214066,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5474",
+    "name": "50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9960784316062927,
+        "g": 0.9882352948188782,
+        "b": 0.9098039269447327,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5477",
+    "name": "Grey/200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8941176533699036,
+        "g": 0.8941176533699036,
+        "b": 0.9058823585510254,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5479",
+    "name": "Success/700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.08235294371843338,
+        "g": 0.501960813999176,
+        "b": 0.239215686917305,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5483",
+    "name": "200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9960784316062927,
+        "g": 0.9411764740943909,
+        "b": 0.5411764979362488,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5484",
+    "name": "Error/900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.49803921580314636,
+        "g": 0.11372549086809158,
+        "b": 0.11372549086809158,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5487",
+    "name": "700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.6313725709915161,
+        "g": 0.3843137323856354,
+        "b": 0.027450980618596077,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5489",
+    "name": "Error/800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.6000000238418579,
+        "g": 0.10588235408067703,
+        "b": 0.10588235408067703,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5504",
+    "name": "400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9803921580314636,
+        "g": 0.800000011920929,
+        "b": 0.08235294371843338,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5514",
+    "name": "Acent/300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.5764706134796143,
+        "g": 0.772549033164978,
+        "b": 0.9921568632125854,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5515",
+    "name": "Grey/400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.6313725709915161,
+        "g": 0.6313725709915161,
+        "b": 0.6666666865348816,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5518",
+    "name": "Grey/500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.4431372582912445,
+        "g": 0.4431372582912445,
+        "b": 0.47843137383461,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5520",
+    "name": "Grey/900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.0941176488995552,
+        "g": 0.0941176488995552,
+        "b": 0.10588235408067703,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5523",
+    "name": "500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9176470637321472,
+        "g": 0.7019608020782471,
+        "b": 0.0313725508749485,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5532",
+    "name": "Error/600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8627451062202454,
+        "g": 0.14901961386203766,
+        "b": 0.14901961386203766,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5533",
+    "name": "Success/50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9411764740943909,
+        "g": 0.9921568632125854,
+        "b": 0.95686274766922,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5537",
+    "name": "600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.7921568751335144,
+        "g": 0.5411764979362488,
+        "b": 0.01568627543747425,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5538",
+    "name": "Success/600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.08627451211214066,
+        "g": 0.6392157077789307,
+        "b": 0.29019609093666077,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5540",
+    "name": "900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.4431372582912445,
+        "g": 0.24705882370471954,
+        "b": 0.07058823853731155,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5549",
+    "name": "Error/400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9725490212440491,
+        "g": 0.4431372582912445,
+        "b": 0.4431372582912445,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5555",
+    "name": "Acent/400",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.3764705955982208,
+        "g": 0.6470588445663452,
+        "b": 0.9803921580314636,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5557",
+    "name": "Grey/300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.8313725590705872,
+        "g": 0.8313725590705872,
+        "b": 0.8470588326454163,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5559",
+    "name": "Success/500",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.13333334028720856,
+        "g": 0.772549033164978,
+        "b": 0.3686274588108063,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5561",
+    "name": "Grey/700",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.24705882370471954,
+        "g": 0.24705882370471954,
+        "b": 0.27450981736183167,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5564",
+    "name": "Error/100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 1,
+        "g": 0.886274516582489,
+        "b": 0.886274516582489,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5566",
+    "name": "Grey/600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.32156863808631897,
+        "g": 0.32156863808631897,
+        "b": 0.35686275362968445,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5567",
+    "name": "Acent/600",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.14509804546833038,
+        "g": 0.38823530077934265,
+        "b": 0.9215686321258545,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5569",
+    "name": "Acent/900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.11764705926179886,
+        "g": 0.22745098173618317,
+        "b": 0.5411764979362488,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5571",
+    "name": "300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9921568632125854,
+        "g": 0.8784313797950745,
+        "b": 0.27843138575553894,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5579",
+    "name": "Grey/800",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.15294118225574493,
+        "g": 0.15294118225574493,
+        "b": 0.16470588743686676,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5580",
+    "name": "Error/950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.2705882489681244,
+        "g": 0.03921568766236305,
+        "b": 0.03921568766236305,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5582",
+    "name": "Success/900",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.0784313753247261,
+        "g": 0.32549020648002625,
+        "b": 0.1764705926179886,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5591",
+    "name": "Acent/950",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.09019608050584793,
+        "g": 0.14509804546833038,
+        "b": 0.3294117748737335,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5593",
+    "name": "Success/200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.7333333492279053,
+        "g": 0.9686274528503418,
+        "b": 0.8156862854957581,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:7:5600",
+    "name": "Acent/200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.7490196228027344,
+        "g": 0.8588235378265381,
+        "b": 0.9960784316062927,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:14:176",
+    "name": "rounded-6",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 6
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:14:177",
+    "name": "rounded-10",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 10
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:14:178",
+    "name": "rounded-12",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 12
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:14:179",
+    "name": "rounded",
+    "variableType": "FLOAT",
+    "collection": "Border Radius ",
+    "values": {
+      "Mode 1": 14
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:84",
+    "name": "16",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 64
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:86",
+    "name": "rounded-4",
+    "variableType": "FLOAT",
+    "collection": "Border Radius",
+    "values": {
+      "Mode 1": 4
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:89",
+    "name": "4",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 16
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:90",
+    "name": "rounded-infinite",
+    "variableType": "FLOAT",
+    "collection": "Border Radius",
+    "values": {
+      "Mode 1": 9999
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:91",
+    "name": "3",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 12
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:92",
+    "name": "6",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 24
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:93",
+    "name": "rounded-8",
+    "variableType": "FLOAT",
+    "collection": "Border Radius",
+    "values": {
+      "Mode 1": 8
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:96",
+    "name": "1,5",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 6
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:97",
+    "name": "8",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 32
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:98",
+    "name": "2",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 8
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:16015",
+    "name": "rounded-8",
+    "variableType": "FLOAT",
+    "collection": "border radii",
+    "values": {
+      "Mode 1": 8
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:16016",
+    "name": "rounded-4",
+    "variableType": "FLOAT",
+    "collection": "border radii",
+    "values": {
+      "Mode 1": 4
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:16:16018",
+    "name": "rounded-infinite",
+    "variableType": "FLOAT",
+    "collection": "border radii",
+    "values": {
+      "Mode 1": 9999
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:26:6446",
+    "name": "Background netrual-50",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9882352948188782,
+        "g": 0.9882352948188782,
+        "b": 0.9882352948188782,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:26:6447",
+    "name": "Background netrual-100",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9764705896377563,
+        "g": 0.9764705896377563,
+        "b": 0.9764705896377563,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:26:6448",
+    "name": "Background netrual-200",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.9490196108818054,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:26:6449",
+    "name": "Background netrual-300",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "r": 0.929411768913269,
+        "g": 0.929411768913269,
+        "b": 0.929411768913269,
+        "a": 1
+      }
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:32:13608",
+    "name": "12",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 48
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:35:11279",
+    "name": "rounded-6",
+    "variableType": "FLOAT",
+    "collection": "border radii",
+    "values": {
+      "Mode 1": 6
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:35:11282",
+    "name": "1",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 4
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:35:11289",
+    "name": "rounded-10",
+    "variableType": "FLOAT",
+    "collection": "border radii",
+    "values": {
+      "Mode 1": 10
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:39:15335",
+    "name": "2,5",
+    "variableType": "FLOAT",
+    "collection": "spacing",
+    "values": {
+      "Mode 1": 10
+    },
+    "description": ""
+  },
+  {
+    "id": "VariableID:284:28210",
+    "name": "Color",
+    "variableType": "COLOR",
+    "collection": "Brand Colors ",
+    "values": {
+      "Mode 1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:6b6e9491d1f9355bd2acc8746a52d2be2e24cd70/719:181"
+      }
+    },
+    "description": ""
+  }
+]
