@@ -10,53 +10,63 @@
 ## 1. Component Inventory
 
 ### Navigation
-| Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
-| _example_ | _NavBar_  | _desktop, mobile_ | _Yes_ |
+
+| Component | Figma Name | Variants          | Reusable? |
+| --------- | ---------- | ----------------- | --------- |
+| _example_ | _NavBar_   | _desktop, mobile_ | _Yes_     |
 
 ### Layout
+
 | Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
+| --------- | ---------- | -------- | --------- |
 
 ### Content
+
 | Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
+| --------- | ---------- | -------- | --------- |
 
 ### Forms
+
 | Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
+| --------- | ---------- | -------- | --------- |
 
 ### Feedback
+
 | Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
+| --------- | ---------- | -------- | --------- |
 
 ### Actions
+
 | Component | Figma Name | Variants | Reusable? |
-|-----------|-----------|----------|-----------|
+| --------- | ---------- | -------- | --------- |
 
 ---
 
 ## 2. Design Token Map
 
 ### Colors
-| Token Name | Hex | Usage |
-|------------|-----|-------|
-| _primary_ | _#0F3460_ | _Buttons, links_ |
+
+| Token Name | Hex       | Usage            |
+| ---------- | --------- | ---------------- |
+| _primary_  | _#0F3460_ | _Buttons, links_ |
 
 ### Typography
-| Style Name | Font | Weight | Size | Line Height | Letter Spacing |
-|------------|------|--------|------|-------------|----------------|
-| _heading-1_ | _Inter_ | _700_ | _32px_ | _40px_ | _-0.02em_ |
+
+| Style Name  | Font    | Weight | Size   | Line Height | Letter Spacing |
+| ----------- | ------- | ------ | ------ | ----------- | -------------- |
+| _heading-1_ | _Inter_ | _700_  | _32px_ | _40px_      | _-0.02em_      |
 
 ### Spacing Scale
-| Token | Value |
-|-------|-------|
+
+| Token     | Value |
+| --------- | ----- |
 | _space-1_ | _4px_ |
 
 ### Borders & Shadows
-| Token | Value |
-|-------|-------|
-| _radius-sm_ | _4px_ |
+
+| Token         | Value                        |
+| ------------- | ---------------------------- |
+| _radius-sm_   | _4px_                        |
 | _shadow-card_ | _0 2px 8px rgba(0,0,0,0.08)_ |
 
 ---
@@ -64,8 +74,8 @@
 ## 3. Interactive State Matrix
 
 | Component | Default | Hover | Active | Focus | Disabled | Loading | Error | Empty |
-|-----------|---------|-------|--------|-------|----------|---------|-------|-------|
-| _Button_  | ✅ | ✅ | ❓ | ❓ | ✅ | ➖ | ➖ | ➖ |
+| --------- | ------- | ----- | ------ | ----- | -------- | ------- | ----- | ----- |
+| _Button_  | ✅      | ✅    | ❓     | ❓    | ✅       | ➖      | ➖    | ➖    |
 
 **Legend**: ✅ Designed | ❓ Missing — needs designer input | ➖ Not applicable
 
@@ -74,15 +84,17 @@
 ## 4. Responsive Behavior
 
 ### Breakpoints Found
+
 - [ ] Mobile (375px)
 - [ ] Tablet (768px)
 - [ ] Desktop (1024px)
 - [ ] Large Desktop (1440px)
 
 ### Layout Changes
-| Breakpoint | Changes |
-|------------|---------|
-| _Mobile_ | _Single column, hamburger nav, stacked cards_ |
+
+| Breakpoint | Changes                                       |
+| ---------- | --------------------------------------------- |
+| _Mobile_   | _Single column, hamburger nav, stacked cards_ |
 
 > ⚠️ If no responsive frames exist: "No responsive designs provided. Clarification needed from designer before development."
 
@@ -91,13 +103,15 @@
 ## 5. Asset Inventory
 
 ### Icons
-| Icon | Source | Format |
-|------|--------|--------|
-| _search_ | _Lucide_ | _SVG_ |
+
+| Icon     | Source   | Format |
+| -------- | -------- | ------ |
+| _search_ | _Lucide_ | _SVG_  |
 
 ### Images
+
 | Image | Aspect Ratio | Notes |
-|-------|-------------|-------|
+| ----- | ------------ | ----- |
 
 ---
 
