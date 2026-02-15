@@ -3,9 +3,11 @@
 ## Prerequisites
 
 1. **Claude Code** installed globally:
+
    ```bash
    npm install -g @anthropic-ai/claude-code
    ```
+
    Requires a Claude Pro, Claude Max subscription, or Anthropic API key.
 
 2. **Figma account** with a Dev or Full seat (required for MCP server access).
@@ -21,27 +23,35 @@
 You have two options:
 
 **Option A — Remote server (recommended, works with browser Figma):**
+
 ```bash
 claude mcp add --transport http figma https://mcp.figma.com/mcp
 ```
+
 Then type `/mcp` in Claude Code, select `figma`, and authenticate.
 
 **Option B — Desktop server (requires Figma desktop app):**
+
 1. Open Figma desktop app → Menu → Preferences → Enable Dev Mode MCP Server
 2. The `.mcp.json` in this repo is already configured for the desktop server at `http://127.0.0.1:3845/mcp`
 
 ### Step 2: Verify Connection
+
 ```bash
 cd figma-to-react-project
 claude
 ```
+
 Inside Claude Code, type:
+
 ```
 /mcp
 ```
+
 You should see `figma` listed as connected with available tools.
 
 ### Step 3: Initialize the Project
+
 ```bash
 npm install
 ```
@@ -51,33 +61,43 @@ npm install
 ## The Workflow (Every Task, Every Time)
 
 ### Phase 1: Design Analysis (30-60 minutes)
+
 ```
 /analyze-design [paste Figma link or select a frame in Figma desktop]
 ```
+
 This creates `docs/design-analysis.md` with component inventory, token map, state matrix, responsive behavior, and open questions.
 
 **⛔ You cannot skip this phase. No code generation happens without a completed design analysis.**
 
 ### Phase 2: Architecture Planning
+
 ```
 /plan-architecture [feature name]
 ```
+
 Creates `docs/architecture-plan.md` with component tree, build order, and state management plan.
 
 ### Phase 3: Build (AI-Assisted)
+
 ```
 /extract-tokens
 ```
+
 Generates design token files from the analysis. Then build components following the order in your architecture plan — atoms first, compose upward.
 
 ### Phase 4: QA & Polish
+
 ```
 /qa-check src/components/[component-file]
 ```
+
 Runs the full QA checklist against the design analysis. Fix any ❌ items before proceeding.
 
 ### Phase 5: Review & Ship
+
 Create your PR with:
+
 - Screenshot of implementation next to Figma design
 - Link to the Figma frame
 - Note any deviations from design and why
@@ -120,12 +140,12 @@ Create your PR with:
 
 ## Custom Slash Commands Reference
 
-| Command | Phase | What It Does |
-|---------|-------|-------------|
-| `/analyze-design [figma-link]` | 1 | Full design analysis → `docs/design-analysis.md` |
-| `/plan-architecture [feature]` | 2 | Architecture plan → `docs/architecture-plan.md` |
-| `/extract-tokens` | 2→3 | Converts tokens to Tailwind config + CSS vars + TS constants |
-| `/qa-check [filepath]` | 4 | Runs QA checklist against design analysis |
+| Command                        | Phase | What It Does                                                 |
+| ------------------------------ | ----- | ------------------------------------------------------------ |
+| `/analyze-design [figma-link]` | 1     | Full design analysis → `docs/design-analysis.md`             |
+| `/plan-architecture [feature]` | 2     | Architecture plan → `docs/architecture-plan.md`              |
+| `/extract-tokens`              | 2→3   | Converts tokens to Tailwind config + CSS vars + TS constants |
+| `/qa-check [filepath]`         | 4     | Runs QA checklist against design analysis                    |
 
 ---
 

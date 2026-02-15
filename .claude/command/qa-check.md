@@ -3,12 +3,15 @@
 You are performing Phase 4 of the Figma-to-React Engineering System.
 
 ## Input
+
 $ARGUMENTS — the component or page file path to QA check
 
 ## Task
+
 Read the component code AND the design analysis, then evaluate against every item below.
 
 ### Design Fidelity
+
 - [ ] Spacing values (padding, margin, gap) match design within 2px
 - [ ] Typography matches: font family, weight, size, line-height, letter-spacing, color
 - [ ] Colors match exactly (use design tokens, no hardcoded hex)
@@ -17,6 +20,7 @@ Read the component code AND the design analysis, then evaluate against every ite
 - [ ] Responsive behavior matches design at 375px, 768px, 1024px, 1440px
 
 ### Accessibility
+
 - [ ] All interactive elements keyboard accessible (Tab, Enter, Escape, Arrows)
 - [ ] Visible focus indicators with sufficient contrast
 - [ ] Images have alt text or aria-hidden
@@ -25,6 +29,7 @@ Read the component code AND the design analysis, then evaluate against every ite
 - [ ] ARIA roles and attributes where needed
 
 ### Code Quality
+
 - [ ] TypeScript strict: no `any`, all props typed
 - [ ] No hardcoded values (uses design tokens)
 - [ ] Component is properly exported and named
@@ -32,12 +37,15 @@ Read the component code AND the design analysis, then evaluate against every ite
 - [ ] Follows project file structure convention
 
 ### Performance
+
 - [ ] No unnecessary re-renders (check dependency arrays)
 - [ ] Images optimized and lazy loaded where appropriate
 - [ ] No unused dependencies imported
 
 ## Output
+
 Produce a QA report listing:
+
 - ✅ Items that pass
 - ❌ Items that fail with specific details on what needs fixing
 - Total score: X/Y checks passed
